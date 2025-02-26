@@ -37,7 +37,6 @@ Future iterations will introduce:
 Haibu will generate revenue through a freemium monetization model that balances user experience and sustainability: 
 - Subscription Fees:
 Premium users will have access to enhanced features and an ad-free experience.
- - Targeted Advertising for Users: Businesses and projects can sponsor ads displayed to all the users, ensuring a sustainable income stream while maintaining user privacy and decentralization principles.  
 - NFT Marketplace: A place for users to buy Haibu´s exclusive digital assets.
 
 ## 👥 Team & Contributions  
