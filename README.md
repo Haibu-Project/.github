@@ -39,12 +39,17 @@ Haibu will generate revenue through a freemium monetization model that balances 
 Premium users will have access to enhanced features and an ad-free experience.
 - NFT Marketplace: A place for users to buy Haibu´s exclusive digital assets.
 
-## 👥 Team & Contributions  
-- 🧑‍💻 Kevin Latino: Founder CTO
-- 🧑‍💻 Santiago Villarreal: Founder and CCO
-- 🧑‍💻 Saymon Porras: Founder and Developer
-- 📊 Sebastián Mena: Founder and Business Developer
-- 📊 Pablo Mora: Founder and Product Manager
+## 👥 **Team & Contributions**  
+
+🚀 **Founders & Core Team**  
+- 🧑‍💻 **Kevin Latino** — *Founder & CTO*  
+- 🧑‍💻 **Santiago Villarreal** — *Founder & CCO*  
+- 🧑‍💻 **Saymon Porras** — *Founder & Developer*  
+- 📊 **Sebastián Mena** — *Founder & Business Developer*  
+- 📊 **Pablo Mora** — *Founder & Product Manager*  
+- 🌟 **You** — *The Future of Haibu*  
+
+Haibu is built by the community, for the community. Whether you're a developer, a strategist, or a passionate contributor, your role in shaping the future of decentralized social media is invaluable. 🚀
 
 ## 📬 Get Involved  
 Follow us on [X](https://x.com/haibusocial) for the latest updates, feature announcements, and community discussions. Join the conversation and help shape the future of decentralized social networking! 🚀
