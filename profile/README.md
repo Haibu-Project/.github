@@ -7,10 +7,15 @@ Haibu is a decentralized social network, a place where people can share their th
 Our mission is to redefine social networking by giving users control over their data, interactions, and governance. Our vision is to create a social ecosystem where engagement is rewarded, community-driven moderation ensures fairness, and decentralization guarantees freedom of expression without reliance on a central authority.  
 
 ## 🌟 Key Features  
-- 🗳️ DAO Governance: Haibu is community-driven, meaning key decisions —such as feature implementations— are made through voting. Voting power is weighted based on user engagement and contribution levels.  
-- 🏆 Gamified Engagement: Users earn $hai tokens by actively participating in the platform. As they accumulate tokens, they level up, gaining greater voice in governance decisions. 
-- 💬 Familiar Social Interactions: Post "Hai" (similar to tweets), like, comment, and share content while enjoying a decentralized and censorship-resistant experience.  
-- 🔒 Blockchain-Powered Security: Built on Celestia, Haibu ensures data integrity, privacy, and protection against censorship, unlike centralized platforms where data control is in the hands of corporations.  
+- 🗳️ **DAO Governance:** Haibu is community-driven, meaning key decisions such as feature implementations are made through voting. Our governance token, **$HAI**, determines voting power. Users with more tokens have a greater impact on decisions, ensuring that the most engaged contributors shape the platform’s future.  
+
+- 🏆 **Gamified Engagement:** Users earn $HAI tokens by actively participating in the platform. Every three months, new campaigns are introduced, offering unique opportunities to earn additional tokens. As users accumulate tokens, they level up, gaining more influence in governance decisions.  
+
+- 💻 **Open-Source Development & Rewards:** Haibu is fully open-source, encouraging developers to contribute by solving issues and improving the platform. Contributors can claim bounties and also receive $HAI tokens as rewards for meaningful contributions.  
+
+- 💬 **Familiar Social Interactions:** Post "Hai" (similar to tweets), like, comment, and share content while enjoying a decentralized and censorship resistant experience.  
+
+- 🔒 🔒 **Blockchain-Powered Security:** Built on **Celestia** and powered by **Chopin's Framework**, Haibu ensures data integrity, privacy, and protection against censorship. Unlike centralized platforms where corporations control user data, Haibu provides a truly decentralized and user-owned experience. 🚀
 
 ## 🛠️ Tech Stack  
 Haibu is built using cutting-edge Web3 technologies to ensure decentralization, scalability, and security:  
