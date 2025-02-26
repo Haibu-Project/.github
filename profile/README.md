@@ -15,7 +15,7 @@ Our mission is to redefine social networking by giving users control over their 
 
 - 💬 **Familiar Social Interactions:** Post "Hai" (similar to tweets), like, comment, and share content while enjoying a decentralized and censorship resistant experience.  
 
-- 🔒 🔒 **Blockchain-Powered Security:** Built on **Celestia** and powered by **Chopin's Framework**, Haibu ensures data integrity, privacy, and protection against censorship. Unlike centralized platforms where corporations control user data, Haibu provides a truly decentralized and user-owned experience. 🚀
+- 🔒 **Blockchain-Powered Security:** Built on **Celestia** and powered by **Chopin's Framework**, Haibu ensures data integrity, privacy, and protection against censorship. Unlike centralized platforms where corporations control user data, Haibu provides a truly decentralized and user-owned experience. 🚀
 
 ## 🛠️ Tech Stack  
 Haibu is built using cutting-edge Web3 technologies to ensure decentralization, scalability, and security:  
