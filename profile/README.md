@@ -40,21 +40,12 @@ Premium users will have access to enhanced features and an ad-free experience.
 - NFT Marketplace: A place for users to buy Haibu´s exclusive digital assets.
 
 ## 👥 Team & Contributions  
-- 🎨 Sebastián Mena: UI/UX, Project Management
-- 📊 Pablo Mora: Product Manager, Business Development
-- 🧑‍💻 Kevin Latino: FullStack Developer 
-- 🧑‍💻 Santiago Villarreal: FullStack Developer
-- 🧑‍💻 Saymon Porras: FullStack Developer
+- 🧑‍💻 Kevin Latino: Founder CTO
+- 🧑‍💻 Santiago Villarreal: Founder and CCO
+- 🧑‍💻 Saymon Porras: Founder and Developer
+- 📊 Sebastián Mena: Founder and Business Developer
+- 📊 Pablo Mora: Founder and Product Manager
 
 ## 📬 Get Involved  
 Follow us on [X](https://x.com/haibusocial) for the latest updates, feature announcements, and community discussions. Join the conversation and help shape the future of decentralized social networking! 🚀
 
-## 👥 Team & Contributions  
-- 🎨 Sebastián Mena: UI/UX, Project Management
-- 📊 Pablo Mora: Product Manager, Business Development
-- 🧑‍💻 Kevin Latino: FullStack Developer 
-- 🧑‍💻 Santiago Villarreal: FullStack Developer
-- 🧑‍💻 Saymon Porras: FullStack Developer
-
-## 📬 Get Involved  
-Follow us on [X](https://x.com/haibusocial) for the latest updates, feature announcements, and community discussions. Join the conversation and help shape the future of decentralized social networking! 🚀
