@@ -20,7 +20,7 @@ Our mission is to redefine social networking by giving users control over their 
 ## 🛠️ Tech Stack  
 Haibu is built using cutting-edge Web3 technologies to ensure decentralization, scalability, and security:  
 - Frontend: Next.js framework for a dynamic, responsive user experience.
-- Backend: Express.js, Node.js (with TypeScript), and TypeORM for efficient and scalable data management.
+- Backend: Express.js, Node.js (with TypeScript), and Prisma-ORM for efficient and scalable data management.
 - Onchain: Secure integration with the Celestia network and Chopin Framework.
 - SQL → Manages structured data efficiently to ensure smooth user interactions.  [Data Schema](https://dbdiagram.io/d/Haibu-67a2b781263d6cf9a00c9cc5)
 
