@@ -2,7 +2,7 @@
 
 - Learn more about Haibu: https://www.haibusocial.com/
 - Haibu's main app: https://app.haibusocial.com/auth/register
-- Gamified Governance Token Campaign: https://click.haibusocial.com/
+- Gamified Governance Token Campaign distribution: https://click.haibusocial.com/
 
 ## 🚀 Product Overview  
 Haibu is a decentralized social network, a place where people can share their thoughts, ideas, and experiences through posts, comments, and interactions. Built on the Celestia network, Haibu provides a secure, transparent, and community-driven alternative to traditional platforms. Unlike centralized networks that control content and decisions, Haibu operates with a DAO-like governance model, allowing users to collectively shape the platform’s future.
