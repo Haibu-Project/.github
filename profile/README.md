@@ -1,6 +1,6 @@
 # About Haibu 🐝🍯 
 
-- Learn about Haibu: https://www.haibusocial.com/
+- Learn more about Haibu: https://www.haibusocial.com/
 - Haibu's main app: https://app.haibusocial.com/auth/register
 - Gamified Governance Token Campaign: https://click.haibusocial.com/
 
